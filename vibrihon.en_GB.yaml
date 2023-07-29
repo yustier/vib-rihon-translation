@@ -1,0 +1,813 @@
+﻿name: Vib-Rihon
+description: Fun Vibriographic Dictionary with Vibri
+pages:
+  - title: Cover
+    contents:
+      - Vib-Rihon
+  - title: Title Page
+    contents:
+      - Vib-Rihon
+      - "[Fun Vibriographic Dictionary with Vibri]"
+  - title: "[Preface]"
+    contents:
+      - This book is, to put it bluntly, a 'Vibriographic dictionary'.
+      - The 'Vibriography' and its explanations in this book are my own brainstorming 'interpretations' of words that Vibri used frequently and which were difficult for me to understand when I was having fun talking with her on a daily basis.
+      - Of course, each person's 'interpretation of Vibriography' will vary from person to person. This book is not intended to push any personal 'interpretation' onto you, the reader. We would be happy if you could 'interpret' the 'Vibriography' in your own way by looking at Vibri-chan in front of you and listening to her words.
+      - I only wanted to create a kick-start, so to speak, for readers to make these 'interpretations'.
+      - Finally, I would like to take this opportunity to thank Komatsu-kun, Tate-chan and Yan-san, who are authorities on 'Vibriographic interpretation' and who have contributed to the production of this book.
+      - Well, have a nice 'interpretation' to you all!
+      - Koyuru Ebisu, Visiting Professor at Wellow Kaythen University (E-koyuru@nanaon-sha.com)
+  - title: "[How to enjoy flick book]"
+    contents:
+      - This book can not only be used as a 'Vibriographic dictionary', but also as the world's first '3D flick book'. Please read the following instructions carefully and enjoy.
+      - (1) Detach the 3D glasses.
+      - |
+        First of all, remove the 3D glasses at the very back of this book.
+        Please do so carefully along the perforations to avoid tearing them in the heat of the moment.
+      - (2) Make the rims of the glasses.
+      - |
+        Once the glasses have been removed, use an awl or similar tool to drill holes in the white dots on the left and right edges.
+        It is very dangerous, so young children should have their mothers or others do it for them.
+        Once the holes have been punched, make an earpiece by threading a rubber band or string through it.
+      - (3) Wear the glasses.
+      - |
+        Once the earpiece is in place, the glasses are ready to wear. Put them on so that the blue lens is on your right eye.
+        If you find it troublesome to make glasses, you can hold them by hand as they are.
+      - (4) Flick the book.
+      - |
+        This book has a flick book at the top and bottom of the page.
+        Turn the pages at once and enjoy.
+      - Notes
+      - Do not wear the glasses for long periods of time.
+      - It is very dangerous to walk around with 3D glasses on. Never do this.
+  - title: vibribri_drawing
+    contents: null
+  - title: vibribri_text
+    contents:
+      - "*Vibri's vixbrissions*"
+  - title: 1. freshly minted
+    contents:
+      - "[dekʲitatehojahoja]"
+  - title: 1_drawing
+    contents:
+      - Nice to meet you!
+  - title: 2. Lanlala-n Tanoshiina-
+    contents:
+      - "[ɾanɾaɾaːɴʃtanoʃiːnaː]"
+      - 1. the singing voice that rushes out from the mouth when one is satisfied. (Abbr.) lantano.
+      - 2. a state of heightened happy vixbrission.
+  - title: 2_drawing
+    contents: null
+  - title: 3. occhokochoi
+    contents:
+      - "[ottʃokotʃoi]"
+      - 1. the state of being in such a hurry that one's actions do not follow, or the person in such state. 2. to have just a small cupful of hot sake; 3. a very rare jargon used by DJs to refer to scratch (e.g., "You know, Fumiya's ________ lately?").
+      # Have never heard of 2. Archaic?
+  - title: 3_drawing
+    contents: null
+  - title: 4. ochoushimono
+    contents:
+      - "[otʃoːʃimono]"
+      - 1. a person who does something on the spur of the moment and accidentally succeeds and goes on to do something even more radical. Or the state of being. 2. As much as when a person only intends to have one small cupful of drink, they... (gets carried away) (e.g. 'Why don't we have a quick drink?' 'No, I'm good. I'm ____.')
+      # Have never heard of 2. Also archaic?
+  - title: 4_drawing
+    contents:
+      - Hiccups.
+  - title: 5. komattachan
+    contents:
+      - "[komattatʃaɴ]"
+      - 1. slightly heightened state of yielding vixbrission. The degree of fretting is 67%. (Etymology) From the fact that when Komatsu-kun, Tate-chan and Yan-san get together, they always cause a bit of trouble.
+      # The Japanese term 'troubled chan' refers to people who disgust those around them with their selfish comments and behaviour, but are unaware of it themselves.
+  - title: 5_drawing
+    contents: null
+  - title: 6. omattachan
+    contents:
+      - "[oːmattatʃaɴ]"
+      - 1. very weakened vixbrission increased to the extreme. 385% of fretting degree. (Etymology) From the fact that when Omatsu-kun, Tate-chan and Yan-san get together, they always cause quite a big trouble.
+      # It is not a word that exists in the Japanese language.
+  - title: 6_drawing
+    contents: null
+  - title: 7. chippoke
+    contents:
+      - "[tʃippoke]"
+      - 1. small enough to fit in a pocket. Or the state of being. (Etymology) From the onomatopoeic word 'kepotch', which describes the surprisingly small sound made by the gases released when an extreme glutton digests food and expels them from the oral cavity.
+      # Of course the Japanese etymology is different; it has nothing to do with English 'pocket' either.
+  - title: 7_drawing
+    contents: null
+  - title: 8. osenchi
+    contents:
+      - "[osentʃi]"
+      - 1. a unit of measurement for the slightly sad vixbrission. The height of the Vibri is inversely proportional to the increase in the osenchi degree. (English) o-inch. (Old) o-shaku.
+      # The Japanese word 'osenti' means sentimentality. Centimetres, inches and shaku are units of length.
+  - title: 8_drawing
+    contents:
+      - 8 ocentimetres
+      - 56 ocentimetres
+      - 78 ocentimetres
+  - title: 9. kujibiki
+    contents:
+      - "[kɯdʒibʲikʲi]"
+  - title: 9_ladder
+    contents: null
+  - title: 9_result
+    contents:
+      - |
+        You are Mushibri. You need to make very modest efforts.
+        There is no more left to do. Grrrrrrrggh!!
+      - |
+        You are Super Vibri. Beware of spinning out of control.
+        Uplifting, but on your guard.
+      - |
+        You are Vibri and having fun.
+        Keep running at the same pace.
+      - |
+        You are Kerovibri You tend to miss out on luck in the most important places.
+        Do not give up here. There is only one way forward.
+  - title: seikatsu
+    contents:
+      - "*Life of Vibri*"
+      - |
+        lounge
+        a-
+        round
+  - title: 10. kutchane
+    contents:
+      - "[kɯttʃane]"
+      - 1. satisfied with food and sleep. Basic style of vixbrission. 2. lack of authenticity. From the meaning of all the fake luxury brand bags, such as 'Kucci' and 'Tchannel'.
+      # The 'cha' in the Japanese word 'kutchane' does not refer to tea. I have never heard of 2.
+  - title: 10_drawing
+    contents:
+      - 29 April ☀
+      - |
+        Today,
+        I ate and slept. Vibri
+      - |
+        kut
+        cha
+        ne
+        ne
+  - title: 10_drawing_2
+    contents:
+      - 28 September ☂
+      - |
+        It was raining,
+        so it was
+        chakutchane. Vibri
+      - |
+        cha
+        kut
+        cha
+        ne
+  - title: 10_drawing_3
+    contents:
+      - 27 November ☁
+      - |
+        kut
+        cha
+        ne
+        ne
+        ne
+      - |
+        Today it was kutchanenene.
+        I enjoyed it! Vibri
+  - title: 11. gussuri
+    contents:
+      - "[gɯssɯ̈ɾʲi]"
+      - 1. the state of sleep after a good job. So-called hypersleep.
+  - title: 11_drawing
+    contents: null
+  - title: 12. botto
+    contents:
+      - "[bottoː]"
+      - 1. the state of being absorbed in just one thing. 2. in the middle of a good job. (Etymology) The sound made when a pebble is dropped into a very deep well. It takes so long for the pebble to reach the surface of the water that everyone is anxious and concentrates their attention on it, wondering if it has reached the surface yet.
+      # The etymology of the Japanese language is different.
+  - title: 12_drawing
+    contents: null
+  - title: 13. guttari
+    contents:
+      - "[gɯttaɾʲi]"
+      - 1. the state of sleep after doing something not nice. However, in the case of Vibri, she knows the indescribable pleasure she feels when others move him when she is in a state of weakness, so she may deliberately behave exaggeratedly ____, even though she has not done much damage.
+  - title: 13_drawing
+    contents: null
+  - title: 14. suppa
+    contents:
+      - "[sɯ̈ppa]"
+      - 1. an exclamation of surprise at the sour taste. [____nuku] To remove only the sour food from food that has been mixed with sour food.
+      # Japanese 'suppanuku' means to reveal a secret.
+  - title: 14_drawing
+    contents: null
+  - title: 15. mazuppa
+    contents:
+      - "[madzɯ̈ppa]"
+      - 1. an exclamation when things get even more sour. 2. a slightly hard-boiled mumbled exclamation when things get bad.
+      # Words that do not exist in Japanese.
+  - title: 15_drawing
+    contents: null
+  - title: 16. muki-
+    contents:
+      - "[mɯkʲiː]"
+      - 1. Bad feeling leading to one's brain. (Etymology) From when Vibri came home and realised she had lost the key to the door and involuntarily shouted it meaning 'key' is 'nai (not be)'.
+      # Of course, the etymology of the Japanese word is different.
+  - title: 16_drawing
+    contents: null
+  - title: 17. amazuppa
+    contents:
+      - "[amadzɯ̈ppa]"
+      - 1. find a good sweetness in the acidity.
+  - title: 17_drawing
+    contents: null
+  - title: 18. batchiri
+    contents:
+      - "[battʃiɾʲi]"
+      - 1. an exclamation when the amusing vixbrission have almost reached their zenith.
+      - 2. a state in which, even if there are 100 misfortunes, one happiness is found in the midst of them.
+      # Japanese 'batchiri' means perfect.
+  - title: 18_drawing
+    contents:
+      - perfectly
+  - title: 19. chacha
+    contents:
+      - "[tʃatʃa]"
+      - 1. A drink to calm yourself down and hold off on "wanting to interlude someone else's statement jokingly". However, rappers' cues such as "uh huh" and "That's right" and ordinary cues such as "hai-ya" do not stop even if you drink the chacha.
+      # Japanese 'chacha' means to disturb.
+  - title: 19_drawing
+    contents:
+      - tease
+      - chacha
+  - title: 20. jirojiro
+    contents:
+      - "[dʒiɾodʒiɾo]"
+      - 1. one of the graded expressions for white mixed with grey. (e.g.) shiro -> shiro-jiro -> jiro-jiro -> jiro-jiro -> kuro -> kuro-jiro. Can be freely arranged as follows.
+      # Japanese 'jirojiro' means to stare without restraint.
+  - title: 20_drawing
+    contents:
+      - Vib-Ribbon?
+      - Eh?
+      - |
+        vibri
+        ....?
+        bon
+      - |
+        vibri
+        Bon?
+      - Bon?
+      - |
+        vibri
+        bon
+        ....
+      - "!"
+  - title: letsplay_drawing
+    contents: null
+  - title: letsplay_text
+    contents:
+      - "*Let's Play Vib-Ribbon*"
+  - title: 21. kakkoyosage-
+    contents:
+      - "[kakkojosageː]"
+  - title: 21_drawing
+    contents:
+      - umage-
+      - beat'-em-up
+      - "[Yosage-]"
+      - recommendation
+      # Different from the Japanese meaning.
+  - title: 22. gu-tara
+    contents:
+      - "[gɯːtaɾa]"
+      - 1. a state of moderate relaxation of the body. (Ant.) battala.
+      # The Japanese word 'gutara' means lazy. English "good" and "bad" are not related.
+  - title: 22_drawing
+    contents:
+      - Strive
+      - Vibri
+  - title: 23. otto
+    contents:
+      - "[otto]"
+      - 1. an exclamation uttered in anticipation of a bit of something when encountering a situation that threatens lantano status. 2. the name of the spouse (male) to the female. A stranger who live together and think you know everything, but are suddenly often surprised by him.
+      # Interesting association. Is it player input to anticipate?
+  - title: 23_drawing
+    contents: null
+  - title: 24. auchi
+    contents:
+      - "[autʃi]"
+      - 1. an exclamation uttered when struck by a physical difficulty that suddenly appears in a peaceful routine. 2. an unrelated person. (Anti) miuchi.
+      # Have never heard of 2. Archaic?
+  - title: 24_drawing
+    contents: null
+  - title: 25. ikinashi
+    contents:
+      - "[ikʲinaʃi]"
+      - 1. a state of suspended animation when the level of vibri-can't-go-onness is momentarily increased. 2. a fashionable death.
+      # 'ikinashi' can mean both 'Breathless' and 'chic death'.
+  - title: 25_drawing
+    contents:
+      - "...."
+  - title: 26. nanchatte
+    contents:
+      - "[nantʃatte]"
+      - 1. a magic spell that makes it possible to pretend that everything that has happened up to that point never happened., 'Vibri can't go on, ______' 2. a signature line when the goofiness is in full swing. (Etymology) One of the clincher moves in sumo. It used to be a technique involving complex hand movements, but for some reason fell into disuse before the Genroku era (1688-1704). One theory is that the term was abused by an ancestor of Vibri, who was a gyoji at the time, in order to overturn a misjudgment in the first sense.
+      # Different from Japanese etymology.
+  - title: 26_drawing
+    contents:
+      - nanchatte
+  - title: 27. nokonoko
+    contents:
+      - "[nokonoko]"
+      - 1. the way of walking when the lantano degree weakens. When it weakens further and goes to the point of snapping back, it becomes gikogiko. 2. Small saw. Also, the sound of something being cut with it.
+  - title: 27_drawing
+    contents: null
+  - title: 28. ke-betsu
+    contents:
+      - "[keːbetsɯ̈]"
+      - 1. a state of mind when the lantano level is severely low. 2. to make fun of someone. Vibri ________ Kerovibri or Mushibri, but in fact it is a figure of herself......
+  - title: 28_drawing
+    contents: null
+    # I don't think it should be naughty!
+  - title: 29. zakku
+    contents:
+      - "[dzakkɯ]"
+      - 1. Decisive action to break the lowest lantano degree state. 2. miscellaneous phrases. (e.g.) 'senryu no, youna goroawase wo, zakku to iu' by Kerovibri 3. a unit of measure indicating the amount of gold coins that come out when a person is seduced by a dog into digging in the ground.
+      # 3. is not a word that exists in Japanese. But is based on common Japanese folklore. The Japanese word 'zakku' can mean the sound of a lot of coins clashing together.
+  - title: baran
+    contents:
+      - "[baɾaɴ]"
+      - 1. the unfortunate state of the battered 'zakku'.
+      - 2. leaves laid under sushi and other dishes. Said to have a bactericidal effect against Vibrio coli and other bacteria. However, its bactericidal effect against Vibri germ has not yet been confirmed.
+      # Aspidistra elatior is said to actually have a bactericidal effect. The Japanese word 'zakkubaran' means to say things to someone without reservation.
+  - title: 30. hassuru
+    contents:
+      - "[hassɯ̈ɾɯ]"
+      - 1. lantano degree further increased. 500% clink degree. 2. pip-pip-pip-pip-pip, pip-pip-pip-pip...... 'Do the Hustle!' A discothèque classic, also recommended by Vibri.
+  - title: 30_drawing
+    contents: null
+  - title: 31. ye-i
+    contents:
+      - "[ieːi]"
+      - 1. exclamation when the lantano degree is at its highest. 800% (by global standard) for a further increase in invincibility.
+      - 2. a habitat (great enough to brag to others about).
+      # 2. is of course multiplied by 'ie (home)'.
+  - title: 31_drawing
+    contents: null
+  - title: 32. uttori
+    contents:
+      - "[ɯttoɾʲi]"
+      - 1. the state of being intoxicated by the high level of invincibility.
+      - 2. meaning 'stay selling it' in Kansai dialect.
+  - title: 32_drawing
+    contents: null
+  - title: 33. payapaya
+    contents:
+      - "[pajapaja]"
+      - 1. onomatopoeic term for the state of runner's high.
+      - 2. the name of a fruit or dish that might be found on an isolated island in the South Seas. It would take about six months to actually find out for sure, but the travel and other expenses would be covered by the proceeds from the sale of this book.
+  - title: yabayaba
+    contents:
+      - "[jabajaba]"
+      - 1. an onomatopoeic term for a state of being stirred up from the payapaya; 2. a type of fly that seems to live in the depths of Africa. Or rather, let us go.
+  - title: 34. moja
+    contents:
+      - "[modʒa]"
+      - 1. the degree of change in complex psychological and physical states. (Etymology) From the fact that, in this state, it is tempting to say 'jamoji' for 'shamoji (ladle)'.
+      # The Japanese word 'moja' means growing unevenly and in large numbers. The etymology of the word is also different.
+  - title: mojamoja
+    contents:
+      - "[modʒamodʒa]"
+  - title: 35. moyamoya
+    contents:
+      - "[mojamoja]"
+      - 1. a state of unclear vision for some reason. (Etymology) From 'mo-ya', a corruption of 'mou iya (no more)'.
+      # Different from Japanese etymology.
+  - title: 35_drawing
+    contents: null
+  - title: 36. shaki-n
+    contents:
+      - "[ʃakʲiːɴ]"
+      - 1. a state of being so positive that they can openly talk about borrowing money from others.
+      # Word play with 'shakkin (debt)'.
+  - title: 36_drawing
+    contents: null
+    # Why an iron?
+  - title: 37. mouyada
+    contents:
+      - "[moːjada]"
+      - 1. contraction of 'mouretsu ni iyada (I hate it with a passion)'.
+      # It's different, but it gets the point across.
+  - title: 37_drawing
+    contents: null
+  - title: 38. 
+    contents:
+      - "[gakkaɾʲi]"
+      - 1. an ambivalent psychological state in which, despite the victory, one is somehow struck by a feeling of inadequacy.
+      # "Gakkari" means "disappointed" in Japanese.
+  - title: 38_drawing
+    contents: null
+  - title: 39. imaichi
+    contents:
+      - "[imaitʃi]"
+      # "Imaichi" means "not good enough" in Japanese.
+  - title: 39_drawing
+    contents:
+      - The score is 1 point.
+  - title: 40. mukatsuku
+    contents:
+      - "[mɯkatsɯ̈kɯ]"
+      - 1. shoe-chewingly frustrating condition.
+      - 2. what to say when complaining about gastrointestinal problems to your doctor in hospital.
+      # If you read 'mukatsuku' backwards, it becomes 'kutsukamu (to chew a shoe)'.
+  - title: ongakukai_drawing
+    contents: null
+  - title: ongakukai_text
+    contents:
+      - "*Vibri's concert*"
+  - title: 41. dondon
+    contents:
+      - "[dondoɴ]"
+      - 1. an onomatopoeic term describing the state of a large number of things rushing in. 2. the sound of a taiko drum. 3. an emphatic expression of 'tonton'. However, it does not describe an unusually large Ueno panda, a tap that breaks the mother's shoulder, or an unusually balanced balance sheet.
+      # Tong Tong (1986-2000) is a giant panda at the Ueno Zoo. "Tonton" also means that there is little difference between the two.
+  - title: 41_drawing
+    contents:
+      - |
+        There's a lot
+        coming this way!
+  - title: 42. an du toroa
+    contents:
+      - "[aɴ du toɾowa]"
+      - 1. in Japanese, "ichi-ni-kusan"; in English, "one-two-three"; in Cantonese, "yat-yih-saam"; in computer language, "1, 10, 11"; 2. the counting system for triple time. It is said that Japanese people are not good at triple time. 3. So, this is "French" after all!
+  - title: 42_drawing
+    contents:
+      - an
+      - du
+      - toroa
+  - title: 43. an pon tan
+    contents:
+      - "[aɴ poɴ taɴ]"
+      - 1. a fool. (Etymology) "Pontan" means a wise man, and "un" is added to the beginning of "pontan" to deny it, giving the meaning above. 2. "How's this, it's an anpai (safe tile)", you said discarding a green doragon tile, being wary of your opponent's riichi, and it got "Pon that!" by the left player, thinking that you were lucky with the dora you drew next, and as soon as you discarded the random edge tile with "Tan!", you realise that you've just fed the player to the right to win 18000 points.
+      # Mahjong is scary, ain't it... 1. has a different etymology.
+  - title: 43_drawing
+    contents:
+      - |
+        an
+        pon
+        tan
+  - title: 44. soro
+    contents:
+      - "[soɾo]"
+      - 1. solo performance. Solo singing. However, that does not mean that the word is a German origin. 2. the state of being without a boyfriend or girlfriend. (e.g.) 'I've been ____ for two months now.' (by no means they are trying to get into the Guinness Book of Records for two months of solo performance).
+      # Japanese write 'Germany' as 'doku (alone)'; 2. is an obsolete term?
+  - title: 44_drawing
+    contents: null
+  - title: 45. sorosoro
+    contents:
+      - "[soɾosoɾo]"
+      - 1. a state in which something is slowly transitioning. In the case of something visible, it is often secluded. 2. a rather squeamish state in which solos are hanging out together with no possibility of developing a romantic relationship.
+      # Is 2. an obsolete term still?
+  - title: 45_drawing
+    contents: null
+  - title: 46. zorozoro
+    contents:
+      - "[dzoɾodzoɾo]"
+      - 1. the movement of a large number of somethings together. Most of the time, it is somehow not pleasant to watch. 2. a very squeamish situation where solos are hanging out with each other even more with no chance of developing a romantic relationship.
+      # I knew 2. was just a made-up Vibriographic word.
+  - title: 46_drawing
+    contents: null
+  - title: 47. sockuri
+    contents:
+      - "[sokkɯɾʲi]"
+      - 1. looking very similar. Can be pleasant or creepy to watch. 2. A word uttered when hiccups come out just as you are about to say 'I can't stop hiccupping'. 'So' is an accent on 'sha' and 'kurri' is the sound of hiccups.
+      # 2. is a word that does not exist in Japanese.
+  - title: 47_drawing
+    contents: null
+  - title: 48. sokkurikaeru
+    contents:
+      - "[sokkɯɾʲikaerɯ]"
+      - 1. a dignified look with one's back turned up wide. not exclusively for frogs. 2. a state where the food in the stomach is incidentally returned to the throat area, when in 'sokkuri' 2.
+      # Ew.
+  - title: 48_drawing
+    contents: null
+  - title: 49. sabishi-
+    contents:
+      - "[sabʲiʃiː]"
+      - 1. loneliness. Zero sense of lantano. Osenchi degree is immesurable. (Etymology) From the mistaken and amateurish belief that the C chord (C-E-G) in the so-called 'sabi (chorus)' of popular music is not enough to make it exciting. To be excited under such adverse circumstances is the real excitement!
+  - title: 49_drawing
+    contents: null
+  - title: 50. dammari
+    contents:
+      - "[dammaɾʲi]"
+      - 1. a state of silence, mainly when things happen that are inconvenient for them. 2. this is not the case for Vibri, who tend to speak out even when things are inconvenient for them.
+  - title: 50_drawing
+    contents:
+      - danmari
+      # It is written in many diagonals to fill the page.
+  - title: 51. tammari
+    contents:
+      - "[tammaɾʲi]"
+      - 1. a state of complacency, mainly when things happen that are good for them. 2. this state does not last long for Vibri, as she will eventually speak out, even if it is better for her to keep quiet.
+  - title: 51_drawing
+    contents:
+      - dammari
+      - tammari
+      # The voiced mark has dropped out of some dammari and is now tammari.
+  - title: 52. iikoto
+    contents:
+      - "[iːkoto]"
+      - 1. high-end koto.
+  - title: 52_drawing
+    contents:
+      - |
+        iikoto kotokoto
+        itoko no ko (cousin)
+      # Does Vibri have a cousin?
+  - title: 53. hatesate.
+    contents:
+      - "[hatesate]"
+      - 1. ?????? What happens now?
+  - title: 53_drawing
+    contents: null
+  - title: sekai_drawing
+    contents: null
+  - title: sekai_text
+    contents:
+      - "*Vibri round the world*"
+  - title: 54. akkerakan
+    contents:
+      - "[akkeɾakaɴ]"
+      - 1. a state where a person is so taken aback by the unexpectedness of the situation that they kick the can that rolls under their feet.
+  - title: 54_drawing
+    contents: null
+  - title: 55. garakuta
+    contents:
+      - "[gaɾakɯta]"
+      - 1. camels clad in useless objects picked up to protect themselves from the desert heat and sandstorms. Can sometimes be seen in the lunar desert.
+      # There is a song called "Moon Desert" and camels appear in the lyrics. "Garakuta (junk)" is not mentioned.
+  - title: 55_drawing
+    contents: null
+  - title: 56. jumon
+    contents:
+      - "[dʒɯmoɴ]"
+      - 1. a magic word that can transport you to the streets of Paris in one fell swoop just by chanting it. Pronounced "Jumo~n" (?).
+      # Yes, it sounds French, though.
+  - title: 56_drawing
+    contents:
+      - cafe de jumon
+  - title: 57. charamporan
+    contents:
+      - "[tʃaɾampoɾaɴ]"
+      - 1. On the street corner in Paris. You ask two Frenchmen for directions, but they are completely incomprehensive. What the names of two were! 2. being irresponsible without a unified opinion. Also, the state of being. (Etymology) From the scene when Lan Lan the panda eats chanpon.
+      # Pandas do not eat chanpon.
+  - title: 57_drawing
+    contents: null
+  - title: 58. sidoromodoro
+    contents:
+      - "[ʃidoɾomodoɾo]"
+      - 1. again on the streets of Paris. You argue with two Italians, but you have no idea what they want to say. What the names of two were this time! 2. Appearance of lack of coherence in the conversation. Especially if you are unsure of your own opinions...... 3. In case of drunk, you have something to say in your head, but you can't put it into words.
+  - title: 58_drawing
+    contents:
+      - |
+        Sidoro
+        from Italy
+      - |
+        Modoro
+        from Italy
+  - title: 59. soremokoremo
+    contents:
+      - "[soɾemokoɾemo]"
+      - 1. again, on the streets of Paris. You receive presents from two Italians but...... Oh, You can't hold it any longer! What the the names of two were! 2. At first glance, the word seems to be 'all', but in fact it tries to refer to everything that cannot be encompassed by the word 'all'. So it is rarely possible to actually define the whole by this word.
+  - title: 59_drawing
+    contents:
+      - |
+        Soremo
+        from Italy
+      - |
+        Coremo
+        from Italy
+  - title: 60. naisho
+    contents:
+      - "[naiʃo]"
+      - 1. secret. (e.g.) '____ is not a thing, is it?' (Hokkaido dialect).
+      - 2. a government office that controls secret talk within a certain area.
+  - title: 60_drawing
+    contents:
+      - secret
+      - |
+        whispering
+        whispering
+      - whistle
+  - title: 61. dokkoisho
+    contents:
+      - "[dokkoiʃo]"
+      - 1. the call when lifting objects or standing up.
+      - 2. a government office that controls the dokkoisho within a certain area.
+      - 3. the way the heirs of the estate rush to find the deceased's note.
+      # Word play on "doko isho (where the will?)".
+  - title: 61_drawing
+    contents:
+      - dokkoisho
+      - dokkoisho
+      - whistle
+  - title: 62. yoisho
+    contents:
+      - "[joiʃo]"
+      - 1. the appearance of deliberately praising someone. 2. a light shout when lifting or lowering things. 3. a government office that encourages yoisho within a certain area. 4. a good book. This book.
+      # "Yoisho" can mean "good book" in Japanese.
+  - title: 62_drawing
+    contents:
+      - yoisho
+  - title: 63. iroiro
+    contents:
+      - "[iɾoiɾo]"
+      - 1. many colours. The appearance of having many kinds. (Etymology) From the fact that any colourful expression can be obtained by placing any letter in the '□' of i□i□. (E.g.) ijiiji, igaiga, imoimo, ikeike, izuise, isoiso, itaita, iboibo.
+      # There is no word for colour in that example.
+  - title: 63_drawing
+    contents: null
+  - title: eiga_drawing
+    contents: null
+  - title: eiga_text
+    contents:
+      - "*Double feature*"
+      - The Great Battle of Sound
+      - |
+        My Moheji
+        sol-re-mi-sol-la
+  - title: 64. bibiru
+    contents:
+      - "[bʲibʲiɾɯ]"
+      - 1. to shirk, to be disheartened. (Etymology) From the fact that it is a totally 'bibishii (beautiful)' act to shirk at the moment of an unprecedented experience.
+      - |
+        'The Great Battle of Sound', Episode 1: "Vibri shirks!"
+        Boom, boom! The great South Sea monster "Bibiru" attacks the big city at night!
+        How will Vibri, the messenger of justice who protects the peace of the Earth, fare!? (Continued in Episode 2)
+  - title: 64_drawing
+    contents:
+      - roar
+  - title: 65. bukkirabo-
+    contents:
+      - "[bɯkkʲiɾaboː]"
+      - 1. unloving language and behaviour. Also the appearance of.
+      - |
+        'The Great Battle of Sound', Episode 2: 'Fight! Vibri"
+        Clink! Without panicking or making a fuss, Vibri pulls out of her pocket the righteous, unsociable sword "Bukkirabo"! The monster "Bibiru", now it's time to fight! (Continued in Episode 3)
+  - title: 65_drawing
+    contents: null
+  - title: 66. pokkiri
+    contents:
+      - "[pokkʲiɾʲi]"
+      - 1. the fragility of the snap. 2. a word expressing "just that much". 'Sis, it's cheap - 300 yen _____!'
+      - |
+        'The Great Battle of Sound', Episode 3: "Don't Lose! Vibri"
+        Oh dear, What did Vibri see at that moment when she raised her special "Bukkirabo"!? What will Vibri do? And what is the fate of the Earth!? (Continued in Episode 4)
+  - title: 66_drawing
+    contents:
+      - "?"
+  - title: 67. kotempan
+    contents:
+      - "[kotempaɴ]"
+      - 1. the state of thoroughly beating one's opponent in a fight. 2. the sound of 'timbales' being struck by someone like Sheila E. Or the sound of the sumo annoucing drum.
+      - |
+        'The Great Battle of Sound', Episode 4: "Vibri is desperate?"
+        Roar, thud! The roar of the "Bibiru" echoes through the night and darkness of the metropolis! The next moment, the huge, earth-shaking body of the "Bibiru" attacks Vibri! Come on, Vibri! Is that it, Vibri!? (Continued in Episode 5)
+  - title: 67_drawing
+    contents:
+      - "!"
+  - title: 68. maitta
+    contents:
+      - "[maitta]"
+      - 1. a signal word used to acknowledge defeat. Mainly used in martial arts, etc. 2. archaic word meaning 'went out'.
+      - |
+        'The Great Battle of Sound', Episode 5: "Vibri Finally Defeated?"
+        Vibri can't go on! At last, a white flag appeared in Vibri's hand! Even the mighty arm of Vibri, the messenger of justice, cannot prevent the onslaught of the great monster Bibiru!? What will become of the future of the Earth's human race!? Do you want it to be as is, Vibri? (Continued in Episode 6)
+  - title: 68_drawing
+    contents: null
+  - title: 69. maikka
+    contents:
+      - "[maikka]"
+      - 1. for the time being, a feel-good word that makes it seem like it never happened before.
+      - |
+        'The Great Battle of Sound', episode 6: "Vibri makes a big comeback!"
+        The footsteps of the great monster "Bibiru" echo through the metropolis in search of more prey, as it pulls up the remaining Vibri in high spirits without looking back. At that moment, when everyone's eyes are closed, Vibri's ultimate special move, "maikka!" is unleashed! Bibiru falls down into the valley of the buildings. Thus, peace on Earth is protected by vixbrission today. (The End)
+      - zuko!
+  - title: 69_drawing
+    contents: null
+  - title: 70. mojimoji
+    contents:
+      - "[modʒimodʒi]"
+      - 1. a state of being shy, reserved and bashful. Occurs when dealing with someone you don't like or love, but it is difficult to tell them apart. Source of misunderstanding. 2. first words spoken on the phone when sniffling or befuddled, incidentally 'bojiboji' in severe cases.
+      - |
+        'My Moheji Soremisora' Episode 1: "What's the reason for the mojimoji?"
+        Once upon a time, there was a indeed very, very slender girl called Vibri. She was always full of energy, but lately she has been acting strange. She is staring off into the distance, fidgeting, for some reason. What on earth has happened to her?
+      # 2. can be heard saying 'hello' in a nasal voice. Indeed, Vibri is a very slender girl.
+  - title: 70_drawing
+    contents: null
+  - title: 71. furafura
+    contents:
+      - "[ɸɯɾaɸɯɾa]"
+      - 1. unstable mood, behaviour, etc. 2. the appearance of after Super Vibli has been spinning too much in a exitement. 3. so exhausted from making games, writing the Vibriographic Dictionary and drawing illustrations that one has not a shred of energy left over; in other words, the current situation. 4. anaemic from too much hula dancing.
+      - |
+        'My Moheji Soremisora' Episode 2: "Somewhere, someone is calling Vibri?"
+        She won't tell anyone why she's so fidgety. The normally white Vibri is a little red in the cheeks and seems to be staring at "something". And then... Vibri's legs lift up a little, and she is being pulled towards "something" in wobbles. What on earth has Vibri found?
+  - title: 71_drawing
+    contents: null
+  - title: 72. raburabu
+    contents:
+      - "[ɾabɯɾabɯ]"
+      - 1. in the middle of a relationship. a state of affairs where the only people who seem to exist in the world are the people themselves. But that's not possible.　(Etymology) There is a theory that this expression is derived from the first verse of 'All you need is love'.
+      - |
+        'My Moheji Soremisora' Episode 3: 'Oh, my dear Moheji-sama!"
+        Wobble, wobble...... Vibri, who has no feet on the ribbon, is walking faster and faster. Then, Vibri stops suddenly. There was Vibri's favourite "Moheji". Dizzle and wobble, lovey-dovey. The reason for the fidgety is love!
+      # 'Not down-to-earth' means being restless. It seems that Vibri was walking on a ribbon when she played. The scarecrow's face is often depicted as 'henohenomoheji'.
+  - title: 72_drawing
+    contents:
+      - henohenomohe
+  - title: 73. bura-n
+    contents:
+      - "[bɯɾaːɴ]"
+      - 1. the appearance of hanging sloppily. Incidentally, when it becomes 'bura-n bura-n', it becomes shaking. 2. the abbreviation 'blur'n...' for the prefix 'blur and...', indicating that the word that follows is a blurred. (e.g.) blur'n face - the face after the make-up has been removed.
+      - |
+        'My Moheji Soremisora' Episode 4: "Lovey-dovey dangling!"
+        Vibri's love interest was Moheji, charmed with her innocent, henoheno eyes and mohe mouth. Vibri, who had become a complete lantano, kicked the ribbon and jumped at Moheji. Was it an illusion that the corners of Moheji's normally expressionless eyes seemed to droop just a little?
+  - title: 73_drawing
+    contents:
+      - henohenomohe
+      # The 'no' is reversed left to right.
+  - title: 74. suggoi
+    contents:
+      - "[sɯ̈ggoi]"
+      - 1. something that cannot be described. Something that is not very normal, but when asked what is not normal about it, it is impossible to give a clear answer. 2. a word that come out of their mouths when in the highest state of vixbrission, such as happy!, delightful!, or bravo! 3. a wonderful vocabulary.
+      - |
+        'My Moheji soremisora' Episode 5: "Very lovey-dovey!"
+        A wonderful lantano is born in Vibri's heart after meeting Moheji, whom she has longed to meet. Big bash, big dizz and big love grow up inside Vibri. The love story of the Vibri...... is more to come.
+  - title: 74_drawing
+    contents: null
+  - title: 75. wasshoi
+    contents:
+      - "[waʃʃoi]"
+      - 1. a shout when a large number of people are carrying a heavy object. 2. a fuss over a portable shrine at a festival; 3. a word sometimes uttered when one 'sneeze'.
+  - title: 75_drawing
+    contents:
+      - wa
+      - wa
+  - title: 76. Y
+    contents:
+      - "[waːi]"
+      - 1. second to last letter of the alphabet. 2. yttrium. Atomic number 39, atomic weight 88.90585. the first rare earth element, discovered in 1794 by the Finn Gadolin in a mineral from the town of Ytterby. 3. a term used by some Kansai people to refer to themselves.
+  - title: 76_drawing
+    contents:
+      - whee
+  - title: 77. Z
+    contents:
+      - "[dʒiː]"
+      - 1. the last letter of the alphabet. 2. yarn that is twisted left-handed in the way it is twisted. 3. good night. When Vibri plays games, it is always at night, so she sleeps during the day. However, she often dozes off even when she is working, e.g. on the menu screen.
+  - title: 77_drawing
+    contents:
+      - Z Z Z Z Z Z Z Z
+      - I nap during the day and sleep at night.
+      # You always sleep!
+  - title: Colophon
+    contents:
+      - Vib-Rihon
+      - "[Fun Vibriographic Dictionary with Vibri]"
+      - "Publication date: 15 December 2000, first edition, first printing."
+      - |
+        Publisher: Yuichi Hase
+        Publishing Office: Sony Magazines Inc.
+        6-2, Gobancho, Chiyoda-ku, Tokyo 102-8679, Japan
+        Tel: 03-3234-5811
+        Printing house: Toppan Printing Co.
+      - |
+        ©2000 Sony Magazines Inc.
+        ©1999 Sony Computer Entertainment Inc.
+        "<ps-icon>" and "PlayStation" are registered trademarks of Sony Computer Entertainment Inc.
+        "Vib-Ribbon" is a registered trademark of Sony Computer Entertainment Inc.
+      - |
+        All rights reserved.
+        Randomly bound or missing books will be replaced.
+        ISBN 4-7897-1657-0
+        Printed in Japan.
+      - |
+        [STAFF]
+        Direction: Masaya Matsuura / Kiri Matsuura (NanaOn-sha)
+        Illustrations: Kiri Matsuura / Hiromi Hasegawa (NanaOn-sha)
+        Text and structure: Mika Abe (Sony Magazines)
+        Editor: Shotaro Miya (Sony Magazines)
+        Art direction: Toshiki Yoshida (accord graphic)
+        Design: Hiroshi Hasebe (COLTZ)
+        Production cooperation: Sony Computer Entertainment Inc.
+        (Takashi Fujisawa / Hidehito Kojima / Akiko Ogawa)
+  - title: Back cover
+    contents:
+      - ©2000 Sony Computer Entertainment Inc.
+      - |
+        "<ps-icon>" and "PlayStation" are registered trademarks of Sony Computer Entertainment Inc.
+        "Vib-Ribbon" is a registered trademark of Sony Computer Entertainment Inc.
+  - title: Back cover
+    contents:
+      - "9784789716574"
+      - "1920076016004"
+      - ISBN 4-7897-1657-0
+      - C0076
+      - ¥1600E
+      - Price "[1,600 yen]" + tax
+      - Sony Magazines
+  - title: Back
+    contents:
+      - Vib-Rihon
+      - Sony Magazines
