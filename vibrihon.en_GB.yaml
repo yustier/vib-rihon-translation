@@ -58,10 +58,10 @@ pages:
       - 2. a state of heightened happy vixbrission.
   - title: 2_drawing
     contents: null
-  - title: 3. occhokochoi
+  - title: 3. otchokochoi
     contents:
       - "[ottʃokotʃoi]"
-      - 1. the state of being in such a hurry that one's actions do not follow, or the person in such state. 2. to have just a small cupful of hot sake; 3. a very rare jargon used by DJs to refer to scratch (e.g., "You know, Fumiya's ________ lately?").
+      - 1. the state of being in such a hurry that one's actions do not follow, or the person in such state. 2. to have just a small cupful of hot sake; 3. a very rare jargon used by DJs to refer to scratch (e.g., "You know, Fumiya's ____ lately?").
       # Have never heard of 2. Archaic?
   - title: 3_drawing
     contents: null
@@ -77,7 +77,7 @@ pages:
     contents:
       - "[komattatʃaɴ]"
       - 1. slightly heightened state of yielding vixbrission. The degree of fretting is 67%. (Etymology) From the fact that when Komatsu-kun, Tate-chan and Yan-san get together, they always cause a bit of trouble.
-      # The Japanese term 'troubled chan' refers to people who disgust those around them with their selfish comments and behaviour, but are unaware of it themselves.
+      # The Japanese term 'komattachan' refers to people who disgust those around them with their selfish comments and behaviour, but are unaware of it themselves.
   - title: 5_drawing
     contents: null
   - title: 6. omattachan
@@ -98,17 +98,19 @@ pages:
     contents:
       - "[osentʃi]"
       - 1. a unit of measurement for the slightly sad vixbrission. The height of the Vibri is inversely proportional to the increase in the osenchi degree. (English) o-inch. (Old) o-shaku.
-      # The Japanese word 'osenti' means sentimentality. Centimetres, inches and shaku are units of length.
+      # The Japanese word 'osenchi' means being sentimental. Shaku is an old Japanese unit of length.
   - title: 8_drawing
     contents:
-      - 8 ocentimetres
-      - 56 ocentimetres
-      - 78 ocentimetres
+      - 8 osenchimetres
+      - 56 osenchimetres
+      - 78 osenchimetres
   - title: 9. kujibiki
     contents:
       - "[kɯdʒibʲikʲi]"
+      # The Japanese word 'kujibiki' means drawing lots.
   - title: 9_ladder
     contents: null
+    # Choose one of the horizontal line and trace from the left edge. Whenever there is a vertical path, go it. More info: https://en.wikipedia.org/wiki/Ghost_Leg
   - title: 9_result
     contents:
       - |
@@ -194,6 +196,7 @@ pages:
       - "[sɯ̈ppa]"
       - 1. an exclamation of surprise at the sour taste. [____nuku] To remove only the sour food from food that has been mixed with sour food.
       # Japanese 'suppanuku' means to reveal a secret.
+      # She is eating a mandarin.
   - title: 14_drawing
     contents: null
   - title: 15. mazuppa
@@ -224,7 +227,7 @@ pages:
       # Japanese 'batchiri' means perfect.
   - title: 18_drawing
     contents:
-      - perfectly
+      - batchiri
   - title: 19. chacha
     contents:
       - "[tʃatʃa]"
@@ -266,10 +269,10 @@ pages:
       - "[kakkojosageː]"
   - title: 21_drawing
     contents:
-      - umage-
-      - beat'-em-up
+      - horse racing game
+      - figting game
       - "[Yosage-]"
-      - recommendation
+      - 👑recommendation
       # Different from the Japanese meaning.
   - title: 22. gu-tara
     contents:
@@ -305,7 +308,7 @@ pages:
   - title: 26. nanchatte
     contents:
       - "[nantʃatte]"
-      - 1. a magic spell that makes it possible to pretend that everything that has happened up to that point never happened., 'Vibri can't go on, ______' 2. a signature line when the goofiness is in full swing. (Etymology) One of the clincher moves in sumo. It used to be a technique involving complex hand movements, but for some reason fell into disuse before the Genroku era (1688-1704). One theory is that the term was abused by an ancestor of Vibri, who was a gyoji at the time, in order to overturn a misjudgment in the first sense.
+      - 1. a magic spell that makes it possible to pretend that everything that has happened up to that point never happened., 'Vibri can't go on, ____' 2. a signature line when the goofiness is in full swing. (Etymology) One of the clincher moves in sumo. It used to be a technique involving complex hand movements, but for some reason fell into disuse before the Genroku era (1688-1704). One theory is that the term was abused by an ancestor of Vibri, who was a gyoji at the time, in order to overturn a misjudgment in the first sense.
       # Different from Japanese etymology.
   - title: 26_drawing
     contents:
@@ -319,14 +322,14 @@ pages:
   - title: 28. ke-betsu
     contents:
       - "[keːbetsɯ̈]"
-      - 1. a state of mind when the lantano level is severely low. 2. to make fun of someone. Vibri ________ Kerovibri or Mushibri, but in fact it is a figure of herself......
+      - 1. a state of mind when the lantano level is severely low. 2. to make fun of someone. Vibri ____ Kerovibri or Mushibri, but in fact it is a figure of herself......
   - title: 28_drawing
     contents: null
     # I don't think it should be naughty!
   - title: 29. zakku
     contents:
       - "[dzakkɯ]"
-      - 1. Decisive action to break the lowest lantano degree state. 2. miscellaneous phrases. (e.g.) 'senryu no, youna goroawase wo, zakku to iu' by Kerovibri 3. a unit of measure indicating the amount of gold coins that come out when a person is seduced by a dog into digging in the ground.
+      - 1. Decisive action to break the lowest lantano degree state. 2. miscellaneous phrases. (e.g.) 'senryu no, yona goroawase wo, zakku to iu' by Kerovibri 3. a unit of measure indicating the amount of gold coins that come out when a person is seduced by a dog into digging in the ground.
       # 3. is not a word that exists in Japanese. But is based on common Japanese folklore. The Japanese word 'zakku' can mean the sound of a lot of coins clashing together.
   - title: baran
     contents:
@@ -337,7 +340,7 @@ pages:
   - title: 30. hassuru
     contents:
       - "[hassɯ̈ɾɯ]"
-      - 1. lantano degree further increased. 500% clink degree. 2. pip-pip-pip-pip-pip, pip-pip-pip-pip...... 'Do the Hustle!' A discothèque classic, also recommended by Vibri.
+      - 1. lantano degree further increased. 500% clink degree. 2. pip-pip-pip-pip-pip, pip-pip-pip-pip...... 'Do the Hustle!' A discothèque classic, recommended by Vibri.
   - title: 30_drawing
     contents: null
   - title: 31. ye-i
@@ -345,7 +348,7 @@ pages:
       - "[ieːi]"
       - 1. exclamation when the lantano degree is at its highest. 800% (by global standard) for a further increase in invincibility.
       - 2. a habitat (great enough to brag to others about).
-      # 2. is of course multiplied by 'ie (home)'.
+      # 2. is word play on 'ie (house)'.
   - title: 31_drawing
     contents: null
   - title: 32. uttori
@@ -394,7 +397,7 @@ pages:
       # It's different, but it gets the point across.
   - title: 37_drawing
     contents: null
-  - title: 38. 
+  - title: 38. gakkari
     contents:
       - "[gakkaɾʲi]"
       - 1. an ambivalent psychological state in which, despite the victory, one is somehow struck by a feeling of inadequacy.
@@ -415,7 +418,8 @@ pages:
       - 2. what to say when complaining about gastrointestinal problems to your doctor in hospital.
       # If you read 'mukatsuku' backwards, it becomes 'kutsukamu (to chew a shoe)'.
   - title: ongakukai_drawing
-    contents: null
+    contents:
+      - kutsukamu
   - title: ongakukai_text
     contents:
       - "*Vibri's concert*"
@@ -429,6 +433,7 @@ pages:
       - |
         There's a lot
         coming this way!
+      # the notes C (Do) and G (Sol) are coming. See the Japanese script for more info.
   - title: 42. an du toroa
     contents:
       - "[aɴ du toɾowa]"
@@ -487,7 +492,7 @@ pages:
   - title: 49. sabishi-
     contents:
       - "[sabʲiʃiː]"
-      - 1. loneliness. Zero sense of lantano. Osenchi degree is immesurable. (Etymology) From the mistaken and amateurish belief that the C chord (C-E-G) in the so-called 'sabi (chorus)' of popular music is not enough to make it exciting. To be excited under such adverse circumstances is the real excitement!
+      - 1. loneliness. Zero degree of lantano. Osenchi degree is immesurable. (Etymology) From the mistaken and amateurish belief that the C chord (C-E-G) in the so-called 'sabi (chorus)' of popular music is not enough to make it exciting. To be excited under such adverse circumstances is the real excitement!
   - title: 49_drawing
     contents: null
   - title: 50. dammari
@@ -506,7 +511,7 @@ pages:
     contents:
       - dammari
       - tammari
-      # The voiced mark has dropped out of some dammari and is now tammari.
+      # The voiced mark has dropped out of some dammari and is now tammari. Japanese word "tanmari" means abundant (usually time or money).
   - title: 52. iikoto
     contents:
       - "[iːkoto]"
@@ -517,7 +522,7 @@ pages:
         iikoto kotokoto
         itoko no ko (cousin)
       # Does Vibri have a cousin?
-  - title: 53. hatesate.
+  - title: 53. hatesate
     contents:
       - "[hatesate]"
       - 1. ?????? What happens now?
@@ -583,7 +588,7 @@ pages:
   - title: 60. naisho
     contents:
       - "[naiʃo]"
-      - 1. secret. (e.g.) '____ is not a thing, is it?' (Hokkaido dialect).
+      - 1. secret. (e.g.) '____ is not a thing, is it?' (in Hokkaido dialect)
       - 2. a government office that controls secret talk within a certain area.
   - title: 60_drawing
     contents:
@@ -612,11 +617,12 @@ pages:
   - title: 62_drawing
     contents:
       - yoisho
+    # In Japanese, police office and fire department are called "keisatsusho" and "shobosho" respectively, which include "sho" (government office).
   - title: 63. iroiro
     contents:
       - "[iɾoiɾo]"
       - 1. many colours. The appearance of having many kinds. (Etymology) From the fact that any colourful expression can be obtained by placing any letter in the '□' of i□i□. (E.g.) ijiiji, igaiga, imoimo, ikeike, izuise, isoiso, itaita, iboibo.
-      # There is no word for colour in that example.
+      # "Iro" means colour. However there are no word for colour in those examples.
   - title: 63_drawing
     contents: null
   - title: eiga_drawing
@@ -651,7 +657,7 @@ pages:
   - title: 66. pokkiri
     contents:
       - "[pokkʲiɾʲi]"
-      - 1. the fragility of the snap. 2. a word expressing "just that much". 'Sis, it's cheap - 300 yen _____!'
+      - 1. the fragility of the snap. 2. a word expressing "just that much". 'Sis, it's cheap - 300 yen ____!'
       - |
         'The Great Battle of Sound', Episode 3: "Don't Lose! Vibri"
         Oh dear, What did Vibri see at that moment when she raised her special "Bukkirabo"!? What will Vibri do? And what is the fate of the Earth!? (Continued in Episode 4)
@@ -684,7 +690,7 @@ pages:
       - |
         'The Great Battle of Sound', episode 6: "Vibri makes a big comeback!"
         The footsteps of the great monster "Bibiru" echo through the metropolis in search of more prey, as it pulls up the remaining Vibri in high spirits without looking back. At that moment, when everyone's eyes are closed, Vibri's ultimate special move, "maikka!" is unleashed! Bibiru falls down into the valley of the buildings. Thus, peace on Earth is protected by vixbrission today. (The End)
-      - zuko!
+      - tumbling
   - title: 69_drawing
     contents: null
   - title: 70. mojimoji
@@ -735,6 +741,7 @@ pages:
       - |
         'My Moheji soremisora' Episode 5: "Very lovey-dovey!"
         A wonderful lantano is born in Vibri's heart after meeting Moheji, whom she has longed to meet. Big bash, big dizz and big love grow up inside Vibri. The love story of the Vibri...... is more to come.
+      # "goi" means vocabulary in Japanese.
   - title: 74_drawing
     contents: null
   - title: 75. wasshoi
@@ -760,7 +767,7 @@ pages:
     contents:
       - Z Z Z Z Z Z Z Z
       - I nap during the day and sleep at night.
-      # You always sleep!
+      # She always sleeps!
   - title: Colophon
     contents:
       - Vib-Rihon
@@ -798,16 +805,16 @@ pages:
       - |
         "<ps-icon>" and "PlayStation" are registered trademarks of Sony Computer Entertainment Inc.
         "Vib-Ribbon" is a registered trademark of Sony Computer Entertainment Inc.
-  - title: Back cover
+  - title: Back of the sleeve
     contents:
       - "9784789716574"
       - "1920076016004"
       - ISBN 4-7897-1657-0
       - C0076
       - ¥1600E
-      - Price "[1,600 yen]" + tax
+      - "Price: [1,600 yen] + tax"
       - Sony Magazines
-  - title: Back
+  - title: Back of the book
     contents:
       - Vib-Rihon
       - Sony Magazines
