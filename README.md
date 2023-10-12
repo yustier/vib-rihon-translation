@@ -15,5 +15,5 @@ YAML file contains...
 ## Editions
 |Language                |File                                      |Version   |Remarks |
 |:-----------------------|:-----------------------------------------|:---------|:-------|
-|Japanese                |[vibrihon.ja_JP.yaml](vibrihon.ja_JP.yaml)|2023-07-30|Original|
-|English                 |[vibrihon.en_GB.yaml](vibrihon.en_GB.yaml)|2023-07-30|        |
+|Japanese                |[vibrihon.ja_JP.yaml](vibrihon.ja_JP.yaml)|2023-08-14|Original|
+|English                 |[vibrihon.en_GB.yaml](vibrihon.en_GB.yaml)|2023-08-14|        |
